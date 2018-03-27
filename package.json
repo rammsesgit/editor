@@ -4,8 +4,13 @@
   "description": "Probando Electron",
   "main": "index.js",
   "scripts": {
+    "start": "electron index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Isar Ramses Cadena Gaona",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^1.7.5",
+    "monaco-loader": "^0.8.2"
+  }
 }
