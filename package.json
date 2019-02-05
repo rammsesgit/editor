@@ -10,7 +10,7 @@
   "author": "Isar Ramses Cadena Gaona",
   "license": "MIT",
   "devDependencies": {
-    "electron": "^1.7.5",
+    "electron": "^1.8.8",
     "monaco-loader": "^0.8.2"
   }
 }
